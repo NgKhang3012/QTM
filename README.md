@@ -1,1 +1,2 @@
 # QTM
+LAB thuc hanh 
